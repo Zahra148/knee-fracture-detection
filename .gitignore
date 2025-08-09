@@ -1,0 +1,31 @@
+# Model files
+*.pt
+*.pth
+*.onnx
+
+# Dataset folders and archives
+dataset/
+data/
+*.zip
+*.tar
+*.tar.gz
+
+# YOLO training runs
+runs/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Large output folders
+outputs/
+results/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
